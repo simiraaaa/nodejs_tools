@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_tools",
+  "version": "1.0.0",
+  "description": "自分用のコマンドラインツール binをPATHに通して使う",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://simiraaaa@github.com/simiraaaa/nodejs_tools.git"
+  },
+  "author": "simiraaaa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simiraaaa/nodejs_tools/issues"
+  },
+  "homepage": "https://github.com/simiraaaa/nodejs_tools#readme"
+}
